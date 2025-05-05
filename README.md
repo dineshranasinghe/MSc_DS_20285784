@@ -1,5 +1,5 @@
 
-# Retail Sales Forecasting with Traffic Data
+## Optimizing Retail Sales Predictions Using Machine Learning Models: A Case Study of Traffic, Time, and Holiday Effects in Sri Lanka
 
 This repository contains the code and necessary data files for a machine learning project focused on **Retail Sales Forecasting** using traffic data. The project aims to predict retail sales based on historical data of website traffic, holidays, weekends, and other features. The model is built using XGBoost and includes exploratory data analysis (EDA), data preprocessing, outlier detection, and model training.
 
